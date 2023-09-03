@@ -1,0 +1,16 @@
+#imageContainer{
+    display: grid;
+    grid-template-columns: 20vw 20vw 20vw;
+    column-gap: 0.6rem;
+    row-gap: 0.6rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+#userInput{
+    margin-left: 40vw;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    width: 20vw;
+    height: 5vh;
+}
